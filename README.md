@@ -15,7 +15,7 @@
 [![Contribution Check - Git Inspector](https://github.com/Aakash241/M2_EMBEDDED-SYSTEM-2022/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Aakash241/M2_EMBEDDED-SYSTEM-2022/actions/workflows/git_inspector.yml)
 
 
-[![cpp_check](https://github.com/Aakash241/M2_EMBEDDED-SYSTEM-2022/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Aakash241/M2_EMBEDDED-SYSTEM-2022/actions/workflows/cppcheck.yml)
+
 
 
 [![unity](https://github.com/Aakash241/M2_EMBEDDED-SYSTEM-2022/actions/workflows/unity.yml/badge.svg)](https://github.com/Aakash241/M2_EMBEDDED-SYSTEM-2022/actions/workflows/unity.yml)

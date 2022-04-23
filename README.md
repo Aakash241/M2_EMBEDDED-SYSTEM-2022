@@ -10,3 +10,4 @@
 <a href="https://app.codiga.io/public/user/github/Aakash241">
    <img src="https://api.codiga.io/public/badge/user/github/Aakash241?style=light" alt="codiga badge" />
 </a>
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4efa3b6dd281453d9ae1efa5c5b4f1bd)](https://www.codacy.com/gh/Aakash241/M2_EMBEDDED-SYSTEM-2022/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Aakash241/M2_EMBEDDED-SYSTEM-2022&amp;utm_campaign=Badge_Grade)

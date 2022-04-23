@@ -10,3 +10,6 @@
 
 
 [![CI](https://github.com/Aakash241/M2_EMBEDDED-SYSTEM-2022/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Aakash241/M2_EMBEDDED-SYSTEM-2022/actions/workflows/Valgrind.yml)
+
+
+[![Contribution Check - Git Inspector](https://github.com/Aakash241/M2_EMBEDDED-SYSTEM-2022/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Aakash241/M2_EMBEDDED-SYSTEM-2022/actions/workflows/git_inspector.yml)

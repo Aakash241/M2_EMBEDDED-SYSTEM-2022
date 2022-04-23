@@ -19,3 +19,8 @@
 
 
 [![unity](https://github.com/Aakash241/M2_EMBEDDED-SYSTEM-2022/actions/workflows/unity.yml/badge.svg)](https://github.com/Aakash241/M2_EMBEDDED-SYSTEM-2022/actions/workflows/unity.yml)
+
+
+<a href="https://app.codiga.io/public/user/github/Aakash241">
+   <img src="https://api.codiga.io/public/badge/user/github/Aakash241?style=light" alt="codiga badge" />
+</a>
